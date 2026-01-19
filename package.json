@@ -1,0 +1,11 @@
+{
+  "name": "aboelfadl-super-bot",
+  "version": "1.0.0",
+  "description": "All-in-One Bot for Mahmoud AboElfadl",
+  "main": "netlify/functions/bot.js",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "qrcode": "^1.5.3"
+  }
+}
+
